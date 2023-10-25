@@ -1,2 +1,71 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+
+.d2{
+    height: 380px;
+    width: 320px;
+    align-items: center;
+    background-color: #04fe09;
+}
+
+.d3{
+
+    position: absolute;
+    height: 360px;
+    width: 310px;
+
+    background-color: #ffbcb9;
+}
+.r1{
+    margin-top: 3px;
+    margin-bottom: 7px;
+    width: 300px;
+    height: 100px;
+    
+}
+.c1{
+    
+    background-color: #008081;
+}
+
+.c2{
+    
+    background-color: #d7bfd7;
+}
+
+.r2{
+
+    width: 300px;
+    height: 100px;
+    margin-bottom: 7px;
+    
+}
+
+.c3{
+    
+    background-color: #fe6347;
+}
+
+.c4{
+    
+    background-color: #3fe0d0;
+    grid-column-end:auto;
+
+
+    
+}
+.r3{
+    width: 300px;
+    height: 100px;
+}
+.c5{
+   
+    background-color: #ee82ef;
+}
+
+.c6{
+   
+    background-color: #9acd32;
+}
